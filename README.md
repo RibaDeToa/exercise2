@@ -23,6 +23,9 @@ this repository is meant to teach on committing and pull requests
 4. Lerato Riba
 5. Phindiwe Ndaba
 6. Ntombifuthi Sibangoni
+- Qualification : BSc Honors in Applied Mathematics, BSc in Applied Mathematics and Computer Sciences.
+- Research field : Lie's symmetry analysis of the generalized Burger's equation.
+- Toolset : c++, c, Java, SQL.
 
 
 #### Part two 
