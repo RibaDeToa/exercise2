@@ -54,4 +54,7 @@ def newton(f,Df,x0,epsilon,max_iter):
         xn = xn - fxn/Dfxn
     print('Exceeded maximum iterations. No solution found.')
     return None
-    
+y = lambda x: x**3 - x**2 - 5
+Dy = lambda x: 3*x**2 - 2*x
+approx = newton(y,Dy,1,1e-5,10)
+print(approx)
