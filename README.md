@@ -1,5 +1,8 @@
 # exercise2
 this repository is meant to teach on committing and pull requests
+
+
+
 1. clone this repository 
 - Use the http clone url, this will allow you to clone and push upstream without having to setup ssh keys.
 - https://github.com/sambe-consulting/exercise-2.git
@@ -20,7 +23,16 @@ this repository is meant to teach on committing and pull requests
 - Toolset: Python(numeric libraries), C++,C,Java,Golang, R,SQL,
 - Engineering skills: distributed systems, high performance computing,storage systems, cloud native design
 
+
 2. Kabelo Serame
+- Qualification : Advance Diploma in Financial Markerts
+- Financial Markets : Financial Accounting, Financial Services Operations, Financial Planning, Introduction to Financial Markets. 
+-Toolset : Pastel, Excel.
+-Financial skills : Balancing to the statement, Forecasting Financial twin peaks and Para-planning
+
+
+
+
 3. Pfarelo Raliphada
 4. Lerato Riba
 5. Phindiwe Ndaba
