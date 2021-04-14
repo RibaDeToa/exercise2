@@ -1,13 +1,15 @@
 # exercise2
 this repository is meant to teach on committing and pull requests
-1. clone this repository
+1. clone this repository 
+- Use the http clone url, this will allow you to clone and push upstream without having to setup ssh keys.
+- https://github.com/sambe-consulting/exercise-2.git
 2. create a branch named after your name
 3. update this read me with your qualifications (section 2)
 4. Write an indept commit message
 5. Push your commit upstream
 6. Create a pull request
-7. Commits will be rejected if not well written
-8. pull requests will be rejected if not well written
+9. Commits will be rejected if not well written
+10. pull requests will be rejected if not well written
 
 
 ### section 2
@@ -23,9 +25,6 @@ this repository is meant to teach on committing and pull requests
 4. Lerato Riba
 5. Phindiwe Ndaba
 6. Ntombifuthi Sibangoni
-- Qualification : BSc Honors in Applied Mathematics, BSc in Applied Mathematics and Computer Sciences.
-- Research field : Lie's symmetry analysis of the generalized Burger's equation.
-- Toolset : c++, c, Java, SQL.
 
 
 #### Part two 
