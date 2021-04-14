@@ -24,6 +24,9 @@ this repository is meant to teach on committing and pull requests
 3. Pfarelo Raliphada
 4. Lerato Riba
 5. Phindiwe Ndaba
+- Qualification : Bsc Life Science and Bsc (hons) Pharmacology
+- Data Science : Data analysis and storytelling, Relational Database Administration, Descriptive Statistics, Data visualization
+- Toolset: Microsoft Power Bi, Excel, SQl, Azure
 6. Ntombifuthi Sibangoni
 
 
