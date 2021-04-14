@@ -15,7 +15,7 @@ this repository is meant to teach on committing and pull requests
 ### section 2
 1. Kabelo Masemola 
 - Qualification : Bsc applied mathematics and Computer science
-- Data science: Data wrangling, feature extractions, descriptive stats, predictive stats.
+- Data science: Data wrangling, feature extractions, descriptive stats, predictive stats-
 - research fields: Chaos theory, dynamic systems, differential equations, Neural network design
 - Toolset: Python(numeric libraries), C++,C,Java,Golang, R,SQL,
 - Engineering skills: distributed systems, high performance computing,storage systems, cloud native design
@@ -23,6 +23,10 @@ this repository is meant to teach on committing and pull requests
 2. Kabelo Serame
 3. Pfarelo Raliphada
 4. Lerato Riba
+-Qualification : Bsc applied mathematics and Computer Science
+-research field: Differential equations
+-Toolset : Python,Java,C++ and C
+-Engineering Skills: Storage System
 5. Phindiwe Ndaba
 6. Ntombifuthi Sibangoni
 
